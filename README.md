@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 To get a local copy up and running follow these simple steps.
 
-1.Clone the repo in Terminal:
+1. Clone the repo in Terminal:
 
 ### `git clone https://github.com/8anastasia8/auth-app.git`
 
