@@ -2,6 +2,22 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Installation
+
+To get a local copy up and running follow these simple steps.
+
+1.Clone the repo in Terminal:
+
+### `git clone https://github.com/8anastasia8/auth-app.git`
+
+2. Install NPM packages in project directory:
+
+### `npm install`
+
+3. Run the app in project directory:
+
+### `npm start`
+
 ## Available Scripts
 
 In the project directory, you can run:
